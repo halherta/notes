@@ -21,7 +21,7 @@ Hardware
 
 * `WiPy 3.0 $(30) <https://pycom.io/product/wipy-3/>`_
 
-    - Runs 'Micropython <http://www.micropython.org>'_ a stripped down version of Python 3 running on bare metal
+    - Runs `Micropython <http://www.micropython.org>`_ a stripped down version of Python 3 running on bare metal
     - Uses an ESP32 part, dual core, WiFi, Bluetooth and plenty of IO.
     - 4MB SpiRAM
     - Comes with a plethora of libraries (Web frameworks, IO, MQTT e.t.c)
