@@ -41,8 +41,9 @@ Hardware
 
 Software
 ########
-- `Thingsboard <http://www.thingsboard.io>`_
-   Interesting opensource dashboard software that can talk MQTT
-- `Paho MQTT client <https://www.eclipse.org/paho/>`_
+* `Thingsboard <http://www.thingsboard.io>`_
+    - Interesting opensource dashboard software that can talk MQTT
+
+* `Paho MQTT client <https://www.eclipse.org/paho/>`_
 
  
